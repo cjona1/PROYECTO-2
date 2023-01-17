@@ -64,7 +64,7 @@ Donde se puede notar lo siguiente:
 
 Mediante la práctica se pudo determinar que el circuito funciona de la siguiente manera ; el circuito esta alimentado a 110 v de AC del cual fase se va al medio del interruptor y el neutro a la boquilla, el interruptor 1 las dos partes extremas van alas dos partes externas del interruptor 2 y de la restante de la boquilla al medio del interruptor 2.
 
-5. VÍDEO
+# 5. VIDEO
 
 Se adjunta el video donde se realizó el armado y puesto en marcha del circuito detalladamente mediante el diagrama asi como la explicacion de los elementos que la componen:
 
