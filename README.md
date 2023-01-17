@@ -43,9 +43,7 @@ Adquisicion de los materiales.
 
 ![image](https://user-images.githubusercontent.com/116817673/212881005-893e8cb4-d116-44a7-8434-312f8e5810ce.png)
 
-Explicacion de los elementos del circuito.
-
-
+![image](https://user-images.githubusercontent.com/116817673/212913633-595248f7-3638-4e2a-884a-02a1b1475949.png)
 
 Mediante el diagrama se procede a armar el circuito de luz nocturna automatica:
 
