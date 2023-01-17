@@ -34,6 +34,9 @@ OBJETIVOS ESPECÍFICOS
 
 # 2. MARCO TEÓRICO
 
+![image](https://user-images.githubusercontent.com/116817673/212894422-91baf056-0298-45d9-a0a8-6dadff660c96.png)
+
+
 # 3. EXPLICACIÓN DEL PROCEDIMIENTO
 
 Adquisicion de los materiales.
@@ -68,6 +71,8 @@ Mediante la práctica se pudo determinar que el circuito funciona de la siguient
 
 Se adjunta el video donde se realizó el armado y puesto en marcha del circuito detalladamente mediante el diagrama asi como la explicacion de los elementos que la componen:
 
+https://youtu.be/9EA2z_2adfg
+
 # 6. CONCLUSIONES
 
 Mediante el circuito pude concluir que:
@@ -81,9 +86,13 @@ Mediante el circuito pude concluir que:
 •	El proyecto me ha servido para afianzarme más con los elementos que estaremos en contacto por nuestra carrera, lo que nos permitirá saber cómo usar dichos dispositivos para poder desarrollarnos de mejor manera en el ámbito profesional y educativo.
 
 # 7. RECOMENDACIONES
+
 • Se recomienda primero hacer la simulación para evitar pérdidas económicas, así como saber bien los nombres y terminales del interruptor, boquilla para conectar el circuito de forma correcta y también las polaridades de los mismos al momento de armarlo físicamente.
+
 • Use seguridad ya que va a manejar altos voltajes
+
 • Si el circuito no funciona de forma correcta, revise si todos los componentes están bien conectados, además verifique si los componentes tienen los valores y características indicadas en el diagrama.
+
 • Usar cables en buen estado para las conexiones de los componentes.
 
 # 8. BIBLIOGRAFÍA
